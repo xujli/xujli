@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xujli
 - 👀 I’m interested in Accelerating Federated Learning, including mitigating non-IID issues, model transmission volume reduction and etc. 
-- 🌱 I’m currently learning fewshot learning.
+- 🌱 I’m currently learning Fewshot learning and Domain Adaption.
 - 💞️ I’m looking to collaborate on any research related to FL.
 - 📫 How to reach me lixujing19b@ict.ac.cn
 
